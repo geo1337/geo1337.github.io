@@ -1,7 +1,18 @@
 *, html {
   scroll-behavior: smooth !important;
-  cursor: none !important;
+
 }
+@media (min-width:1281px) {
+
+  *, html {
+    scroll-behavior: smooth !important;
+    cursor: none !important;
+  }
+
+}
+
+
+
 
 /*--------------------------------------------------------------
 # General
